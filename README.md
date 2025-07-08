@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/rutvik-3377/rutvik-3377/assets/your-gif-id/devops-workflow.gif" alt="DevOps Workflow" width="100%" />
 </p>
-
 <h1 align="center">Hi 👋, I'm Rutvik Bhesdadiya</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover</h3>
 
