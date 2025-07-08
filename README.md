@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rutvik Bhesdadiya</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineer | Passionate about Automation, CI/CD, and Cloud Solutions</h3>
 
