@@ -62,7 +62,7 @@
 
 ### 🔥 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rutvik-3377&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
