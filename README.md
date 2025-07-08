@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/techyrajput/techyrajput/main/images/devops-cycle.gif" alt="DevOps Workflow" width="100%" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animations/devops-loop.gif" alt="DevOps Workflow" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rutvik Bhesdadiya</h1>
