@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="DevOps GIF" width="100%" />
+  <img src="https://github.com/rutvik-3377/rutvik-3377/assets/your-gif-id/devops-workflow.gif" alt="DevOps Workflow" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rutvik Bhesdadiya</h1>
